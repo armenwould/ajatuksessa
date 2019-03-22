@@ -1,0 +1,33 @@
+h1 {
+  color: blue;
+  font-family: helvetica;
+  font-size: 69px; 
+}
+
+table, th, td {
+  background: #e7f99a;
+  border: 1px solid black;
+  font-family: 'helvetica', sans-serif;
+  font-size: 30px;
+  font-weight: 100;
+  padding: 20px;
+  text-align: center;
+  width: 50%;
+}
+
+thead th {
+  background: #b2c661;
+  color: #FFF;
+  font-size: 30px;
+  font-weight: 300;
+  padding: 20px;
+  width: 50%;
+}
+
+html {
+    background: -webkit-linear-gradient(#ed2fe3, #4f0fff); 
+    background: -o-linear-gradient(#ed2fe3, #4f0fff); 
+    background: -moz-linear-gradient(#ed2fe3, #4f0fff); 
+    background: linear-gradient(#ed2fe3, #4f0fff); 
+    background-color: #ed2fe3; 
+}
